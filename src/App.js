@@ -8,15 +8,13 @@ import History from "./components/History"
 
 class App extends React.Component {
 
-constructor(){
-  super()
-  this.state={
+state={
     historias: data,
     bitacora: [],
     counter: 1,
     currentId: "1"
   }
-}
+
 
  
 
