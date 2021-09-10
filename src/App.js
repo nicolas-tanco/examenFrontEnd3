@@ -1,5 +1,5 @@
 import React from "react";
-import data from "./components/data.json";
+import data from "./data/data.json";
 import MainText from "./components/MainText";
 import Option from "./components/Option";
 import History from "./components/History";
